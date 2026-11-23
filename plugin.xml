@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="cordova-plugin-audio-recorder"
-      version= "1.1.0">
+    version= "1.1.0-j5.1">
     <name>Cordova Audio Recorder Plugin</name>
     <description>Record Audio easily with the device microphone</description>
     <license>MIT License</license>
